@@ -1,4 +1,6 @@
-### Hi there 🦉
+### 🦉 Hi, I'm Jianqiang
+
+[![wakatime](https://wakatime.com/badge/user/2c94f7c4-a51b-4008-a5f9-9afefa40e27f.svg)](https://wakatime.com/@2c94f7c4-a51b-4008-a5f9-9afefa40e27f)
 
 [![Jianqiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JianqiangDing&hide_title=true&count_private=true&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
