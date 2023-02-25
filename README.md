@@ -4,6 +4,8 @@
 
 [![Jianqiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JianqiangDing&hide_title=true&count_private=true&theme=transparent&show_icons=true)](https://github.com/JianqiangDing)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JianqiangDing&layout=compact&hide_title=true&count_private=true&theme=transparent&show_icons=true)](https://github.com/JianqiangDing)
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jianqiang&layout=compact&v=2)](https://wakatime.com/@Jianqiang)
 
 <!--
