@@ -4,7 +4,7 @@
 
 [![Jianqiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JianqiangDing&hide_title=true&count_private=true&theme=transparent&show_icons=true)](https://github.com/JianqiangDing)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jianqiang)](https://wakatime.com/@Jianqiang)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jianqiang)](https://wakatime.com/@Jianqiang)
 
 <!--
 **JianqiangDing/JianqiangDing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
